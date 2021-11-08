@@ -1,4 +1,4 @@
-package com.podluzhnyi.lab2;
+package com.podluzhnyi.lab3;
 
 public class MatrixMaster
 {

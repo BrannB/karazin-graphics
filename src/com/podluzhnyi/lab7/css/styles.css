@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#canvas {
+    background-color: #dcdcdc;
+    margin: 10px;
+    display: block;
+}
+.btn {
+    margin-left: 10px;
+}

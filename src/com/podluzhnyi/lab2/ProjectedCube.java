@@ -1,4 +1,4 @@
-package com.podluzhnyi.lab1;
+package com.podluzhnyi.lab2;
 
 import java.awt.geom.Point2D;
 
